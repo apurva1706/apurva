@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/apurva/static/css/main.0b563076.chunk.css",
+    "main.js": "/apurva/static/js/main.2d162830.chunk.js",
+    "main.js.map": "/apurva/static/js/main.2d162830.chunk.js.map",
+    "runtime-main.js": "/apurva/static/js/runtime-main.8746822b.js",
+    "runtime-main.js.map": "/apurva/static/js/runtime-main.8746822b.js.map",
+    "static/js/2.aaa2c581.chunk.js": "/apurva/static/js/2.aaa2c581.chunk.js",
+    "static/js/2.aaa2c581.chunk.js.map": "/apurva/static/js/2.aaa2c581.chunk.js.map",
+    "index.html": "/apurva/index.html",
+    "precache-manifest.63f2e57e7c21107b1c3510ef3e55cbd0.js": "/apurva/precache-manifest.63f2e57e7c21107b1c3510ef3e55cbd0.js",
+    "service-worker.js": "/apurva/service-worker.js",
+    "static/css/main.0b563076.chunk.css.map": "/apurva/static/css/main.0b563076.chunk.css.map",
+    "static/js/2.aaa2c581.chunk.js.LICENSE.txt": "/apurva/static/js/2.aaa2c581.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/apurva/static/media/pexels-photo-255379.cf5cf269.jpeg",
+    "static/media/profile.jpeg": "/apurva/static/media/profile.685be588.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8746822b.js",
+    "static/js/2.aaa2c581.chunk.js",
+    "static/css/main.0b563076.chunk.css",
+    "static/js/main.2d162830.chunk.js"
+  ]
+}
