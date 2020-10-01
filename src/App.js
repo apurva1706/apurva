@@ -1,5 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './images/profile.jpeg';
+import {FaInstagram} from 'react-icons/fa';
+import {FaGithub} from 'react-icons/fa';
 import './App.css';
 
 function App() {
@@ -8,16 +10,23 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Apurva Periwal
         </p>
+        <section>
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          href="https://www.instagram.com/apurva.peri/"
+          className="icon-button"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        ><FaInstagram /></a>
+        <span>  </span>
+        <a
+          href="https://github.com/apurva1706/"
+          className="icon-button"
+          target="_blank"
+          rel="noopener noreferrer"
+        ><FaGithub /></a>
+        </section>
       </header>
     </div>
   );
