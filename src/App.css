@@ -4,14 +4,14 @@
 }
 
 .App-logo {
-  height: 34vmin;
-  width: 34vmin;
+  height: 38vmin;
+  width: 38vmin;
   pointer-events: none;
   border-radius: 50%;
-  border: 5px solid black;
+  border: 5px solid whitesmoke;
 }
 p{
-  color: black;
+  color: whitesmoke;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -22,14 +22,14 @@ p{
 
 .App-header {
   min-height: 100vh;
-  background-image: url("./images/pexels-photo-255379.jpeg"); 
+  background-image: url("./images/background.jpg"); 
   display: flex;
   flex-direction: column; 
   background-repeat: no-repeat;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: black;
+  color: whitesmoke;
 }
 
 .App-link {
@@ -46,7 +46,7 @@ p{
   user-select: none;
   width: 2.6rem;
   margin-bottom: 10px;
-  color: black;
+  color: whitesmoke;
 }
 span{
   white-space: pre;

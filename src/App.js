@@ -1,7 +1,8 @@
 import React from 'react';
-import logo from './images/profile.jpeg';
+import logo from './images/profile pic.jpeg';
 import {FaInstagram} from 'react-icons/fa';
 import {FaGithub} from 'react-icons/fa';
+import {FaLinkedin} from 'react-icons/fa';
 import './App.css';
 
 function App() {
@@ -26,6 +27,13 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         ><FaGithub /></a>
+        <span>  </span>
+        <a
+          href="https://www.linkedin.com/in/apurva-periwal-2873221b3/"
+          className="icon-button"
+          target="_blank"
+          rel="noopener noreferrer"
+        ><FaLinkedin /></a>
         </section>
       </header>
     </div>
