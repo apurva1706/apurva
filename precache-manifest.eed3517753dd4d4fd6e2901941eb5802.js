@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83039cf456a1ba84843464296dac1a52",
+    "revision": "d2278804f21e98b05c6fba17f17bfc70",
     "url": "/apurva/index.html"
   },
   {
-    "revision": "6325eb580b505f4a45d3",
+    "revision": "3d50efe246509b165e2a",
     "url": "/apurva/static/css/main.e25b02f0.chunk.css"
   },
   {
-    "revision": "279f0398f95e0dbf0b54",
-    "url": "/apurva/static/js/2.fc5ddfbf.chunk.js"
+    "revision": "f36b89f60c48b3cb1958",
+    "url": "/apurva/static/js/2.77e4b443.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/apurva/static/js/2.fc5ddfbf.chunk.js.LICENSE.txt"
+    "url": "/apurva/static/js/2.77e4b443.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6325eb580b505f4a45d3",
-    "url": "/apurva/static/js/main.e0775882.chunk.js"
+    "revision": "3d50efe246509b165e2a",
+    "url": "/apurva/static/js/main.a857bb88.chunk.js"
   },
   {
     "revision": "6cdd1fd9c6320204eca9",

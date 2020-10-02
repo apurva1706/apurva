@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/apurva/static/css/main.e25b02f0.chunk.css",
-    "main.js": "/apurva/static/js/main.e0775882.chunk.js",
-    "main.js.map": "/apurva/static/js/main.e0775882.chunk.js.map",
+    "main.js": "/apurva/static/js/main.a857bb88.chunk.js",
+    "main.js.map": "/apurva/static/js/main.a857bb88.chunk.js.map",
     "runtime-main.js": "/apurva/static/js/runtime-main.8746822b.js",
     "runtime-main.js.map": "/apurva/static/js/runtime-main.8746822b.js.map",
-    "static/js/2.fc5ddfbf.chunk.js": "/apurva/static/js/2.fc5ddfbf.chunk.js",
-    "static/js/2.fc5ddfbf.chunk.js.map": "/apurva/static/js/2.fc5ddfbf.chunk.js.map",
+    "static/js/2.77e4b443.chunk.js": "/apurva/static/js/2.77e4b443.chunk.js",
+    "static/js/2.77e4b443.chunk.js.map": "/apurva/static/js/2.77e4b443.chunk.js.map",
     "index.html": "/apurva/index.html",
-    "precache-manifest.67c8f0a337c385ea2b6f1f461214e479.js": "/apurva/precache-manifest.67c8f0a337c385ea2b6f1f461214e479.js",
+    "precache-manifest.eed3517753dd4d4fd6e2901941eb5802.js": "/apurva/precache-manifest.eed3517753dd4d4fd6e2901941eb5802.js",
     "service-worker.js": "/apurva/service-worker.js",
     "static/css/main.e25b02f0.chunk.css.map": "/apurva/static/css/main.e25b02f0.chunk.css.map",
-    "static/js/2.fc5ddfbf.chunk.js.LICENSE.txt": "/apurva/static/js/2.fc5ddfbf.chunk.js.LICENSE.txt",
+    "static/js/2.77e4b443.chunk.js.LICENSE.txt": "/apurva/static/js/2.77e4b443.chunk.js.LICENSE.txt",
     "static/media/App.css": "/apurva/static/media/background.c271ac07.jpg",
     "static/media/profile pic.jpeg": "/apurva/static/media/profile pic.50baacd1.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.8746822b.js",
-    "static/js/2.fc5ddfbf.chunk.js",
+    "static/js/2.77e4b443.chunk.js",
     "static/css/main.e25b02f0.chunk.css",
-    "static/js/main.e0775882.chunk.js"
+    "static/js/main.a857bb88.chunk.js"
   ]
 }
