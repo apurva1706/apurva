@@ -4,8 +4,8 @@
 }
 
 .App-logo {
-  height: 38vmin;
-  width: 38vmin;
+  height: 40vmin;
+  width: 40vmin;
   pointer-events: none;
   border-radius: 50%;
   border: 5px solid whitesmoke;
@@ -22,7 +22,7 @@ p {
 
 .App-header {
   min-height: 100vh;
-  background-image: url("./images/background.jpg");
+  background-image: url("./images/background.jpeg");
   background-size: cover;
   display: flex;
   flex-direction: column;
