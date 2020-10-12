@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/apurva/static/css/main.8114cf0c.chunk.css",
+    "main.css": "/apurva/static/css/main.c58ae2ec.chunk.css",
     "main.js": "/apurva/static/js/main.a857bb88.chunk.js",
     "main.js.map": "/apurva/static/js/main.a857bb88.chunk.js.map",
     "runtime-main.js": "/apurva/static/js/runtime-main.8746822b.js",
@@ -8,17 +8,17 @@
     "static/js/2.77e4b443.chunk.js": "/apurva/static/js/2.77e4b443.chunk.js",
     "static/js/2.77e4b443.chunk.js.map": "/apurva/static/js/2.77e4b443.chunk.js.map",
     "index.html": "/apurva/index.html",
-    "precache-manifest.b78c546d3c480f4fc2f92de104aac803.js": "/apurva/precache-manifest.b78c546d3c480f4fc2f92de104aac803.js",
+    "precache-manifest.8dccf79f9020684ca885effd29538ad4.js": "/apurva/precache-manifest.8dccf79f9020684ca885effd29538ad4.js",
     "service-worker.js": "/apurva/service-worker.js",
-    "static/css/main.8114cf0c.chunk.css.map": "/apurva/static/css/main.8114cf0c.chunk.css.map",
+    "static/css/main.c58ae2ec.chunk.css.map": "/apurva/static/css/main.c58ae2ec.chunk.css.map",
     "static/js/2.77e4b443.chunk.js.LICENSE.txt": "/apurva/static/js/2.77e4b443.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/apurva/static/media/background.c271ac07.jpg",
+    "static/media/App.css": "/apurva/static/media/background.1486ab6c.jpeg",
     "static/media/profile pic.jpeg": "/apurva/static/media/profile pic.50baacd1.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.8746822b.js",
     "static/js/2.77e4b443.chunk.js",
-    "static/css/main.8114cf0c.chunk.css",
+    "static/css/main.c58ae2ec.chunk.css",
     "static/js/main.a857bb88.chunk.js"
   ]
 }
