@@ -10,7 +10,7 @@
   border-radius: 50%;
   border: 5px solid whitesmoke;
 }
-p{
+p {
   color: whitesmoke;
 }
 
@@ -22,9 +22,10 @@ p{
 
 .App-header {
   min-height: 100vh;
-  background-image: url("./images/background.jpg"); 
+  background-image: url("./images/background.jpg");
+  background-size: cover;
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
   background-repeat: no-repeat;
   align-items: center;
   justify-content: center;
@@ -36,7 +37,7 @@ p{
   color: #61dafb;
 }
 
-.icon-button{
+.icon-button {
   cursor: pointer;
   font-size: 1.5rem;
   line-height: 1.5rem;
@@ -48,7 +49,7 @@ p{
   margin-bottom: 10px;
   color: whitesmoke;
 }
-span{
+span {
   white-space: pre;
   color: white;
 }
